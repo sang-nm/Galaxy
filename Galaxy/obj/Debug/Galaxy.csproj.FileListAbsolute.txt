@@ -1,0 +1,14 @@
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\Galaxy.exe.config
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.Form1.resources
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\Galaxy.exe
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\Galaxy.pdb
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\MetroFramework.Design.dll
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\MetroFramework.dll
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\bin\Debug\MetroFramework.Fonts.dll
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.Class.UserControl1.resources
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.exe
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.pdb
+e:\documents\visual studio 2015\Projects\Galaxy\Galaxy\obj\Debug\Galaxy.Class.UserControl2.resources
